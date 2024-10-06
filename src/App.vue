@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view></router-view> <!-- Отображение текущего маршрута -->
+    <router-view></router-view> 
   </div>
 </template>
 
@@ -11,5 +11,5 @@ export default {
 </script>
 
 <style>
-/* Ваши стили для всего приложения */
+
 </style>
